@@ -80,7 +80,7 @@ Proyecto-Biofeedback-ECG-EEG/
 
 ## Hardware utilizado
 
-* Sistema BIOPAC (o dispositivo utilizado)
+* Sistema BIOPAC MP36 (o dispositivo utilizado para toma de datos)
 * Electrodos ECG
 * Electrodos EEG
 * Computadora para procesamiento
@@ -88,6 +88,10 @@ Proyecto-Biofeedback-ECG-EEG/
 ---
 
 ## Requisitos de software
+
+Biopac Student Lab Software
+
+Drivers MP36
 
 Python 3.11+
 
