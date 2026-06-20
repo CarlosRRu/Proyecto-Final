@@ -76,10 +76,6 @@ Proyecto-Biofeedback-ECG-EEG/
 * **Reporte:** artículo científico IEEE y versión editable.
 * **README:** guía rápida de instalación y ejecución.
 
-```
-```
-
-
 ---
 
 ## Hardware utilizado
