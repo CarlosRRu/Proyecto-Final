@@ -30,7 +30,7 @@ Desarrollar una interfaz capaz de:
 
 * Juan Carlos Argueta Hernández
 * Dario Mariano Gomezpeña Cabrera
-* Ián Shaiel Anell Rodriguez
+* Ian Shaiel Anell Rodriguez
 
 ---
 
