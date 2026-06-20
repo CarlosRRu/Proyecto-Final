@@ -49,8 +49,8 @@ Proyecto-Biofeedback-ECG-EEG/
 │   └── ConfiguracionBIOPAC.pdf
 │
 ├── Reporte/
-│   ├── ArticuloIEEE.pdf
-│   └── ArticuloIEEE.docx
+│   ├── Reporte_Proyecto_Final_BioFeedback.pdf
+│   └── Reporte_Proyecto_Final_BioFeedback.docx
 │
 ├── Software/
 │   ├── capturas/
