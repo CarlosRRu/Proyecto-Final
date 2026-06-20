@@ -36,13 +36,49 @@ Desarrollar una interfaz capaz de:
 
 ## Estructura del repositorio
 
-/Hardware
+```text
+Proyecto-Biofeedback-ECG-EEG/
+│
+├── Hardware/
+│   ├── Fotosmontaje/
+│   │   ├── BIOPAC_Funcionando.png
+│   │   ├── Paciente_Dario.png
+│   │   └── Paciente_Ximena.png
+│   │
+│   ├── Conexiones_Usuario-BIOPAC.png
+│   └── ConfiguracionBIOPAC.pdf
+│
+├── Reporte/
+│   ├── ArticuloIEEE.pdf
+│   └── ArticuloIEEE.docx
+│
+├── Software/
+│   ├── capturas/
+│   │   ├── Estres.png
+│   │   ├── Intermedio.png
+│   │   └── Relajado.png
+│   │
+│   ├── datos/
+│   │   ├── LankyCalibracion.acq
+│   │   └── LankyRE.acq
+│   │
+│   ├── LunaSemaforofinal.py
+│   └── requirements.txt
+│
+├── README.md
+└── .gitignore
+```
 
-/Software
+### Organización
 
-/Reporte
+* **Hardware:** diagramas, configuración del sistema y evidencia experimental.
+* **Software:** código fuente, datos biomédicos y capturas del sistema.
+* **Reporte:** artículo científico IEEE y versión editable.
+* **README:** guía rápida de instalación y ejecución.
 
-README.md
+```
+```
+
 
 ---
 
