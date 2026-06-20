@@ -79,12 +79,12 @@ def calcular_lfhf(ecg):
     )
 
 #Es el area bajo la curva (Integral de PSD), cuanto mas area habra mas actividad
-    lf = np.trapz( 
+    lf = np.trapezoid( 
         pxx[(f>=0.04)&(f<0.15)],
         f[(f>=0.04)&(f<0.15)]
     )
 
-    hf = np.trapz(
+    hf = np.trapezoid(
         pxx[(f>=0.15)&(f<0.40)],
         f[(f>=0.15)&(f<0.40)]
     )
